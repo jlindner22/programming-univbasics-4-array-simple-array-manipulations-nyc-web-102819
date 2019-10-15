@@ -1,3 +1,3 @@
 def using_push(array, string)
-array.include?(element)
+array.push(string)
 end
